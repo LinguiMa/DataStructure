@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629979552 source:e:\software\codeblock\data\orthogonallist\main.c
+	<stdio.h>
+	<stdlib.h>
+
